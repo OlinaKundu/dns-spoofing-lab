@@ -45,6 +45,7 @@ This project demonstrates a **DNS Spoofing attack** combined with **ARP poisonin
 
 ### 6. Attacker reads captured credentials
 ![07_stolen_credentials_view.png](screenshots/07_stolen_credentials_view.png)
+[view in the screenshots folder if not viewable]
 
 ---
 
